@@ -2,6 +2,10 @@
 
 A small reaction-time game built in C++ with ESP-IDF. Three LEDs and a buzzer count down to a randomly delayed **GO** signal. Press the button as quickly as possible after GO; pressing early triggers the fail sequence.
 
+## Functional Demo
+
+https://youtu.be/c_4FXjEqZLM
+
 ## Hardware
 
 - ESP32-S3 development board
